@@ -1,3 +1,19 @@
+# libmodbus
+
+**A C library for Modbus communication over serial ports and Ethernet.**
+
+C · Modbus RTU / TCP · LGPL-2.1-or-later
+
+[Build](#installation) · [Protocol implementation](src/) · [Test programs](tests/) · [API documentation](https://libmodbus.org/)
+
+Start with the build instructions below, then run the TCP server/client tests in `tests/`. The source tree also contains platform-specific build support.
+
+> Fork under novadusk · Upstream: [stephane/libmodbus](https://github.com/stephane/libmodbus) · Branch: `master`. Upstream badges, release links and documentation below describe the original project.
+
+---
+
+## Upstream documentation
+
 # A groovy modbus library
 
 ![Build Status](https://github.com/stephane/libmodbus/actions/workflows/build.yml/badge.svg)
